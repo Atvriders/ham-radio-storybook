@@ -142,12 +142,14 @@ def build_html(md_text: str, out_html: pathlib.Path) -> pathlib.Path:
 
     md_text = _FIG_RE.sub(_fig_html, md_text)
     body = markdown.markdown(md_text)
-    # Link to the audiobook player (served by the Docker image at /audiobook/).
+    # Links under the subtitle: the audiobook player (served by the Docker
+    # image at /audiobook/) and the source repo on GitHub.
     subtitle = "<p><em>A ham radio adventure for young readers</em></p>"
     if subtitle in body:
         body = body.replace(
             subtitle,
-            subtitle + '\n<p class="listen"><a href="/audiobook/">🎧 Listen to the audiobook</a></p>',
+            subtitle + '\n<p class="listen"><a href="/audiobook/">🎧 Listen to the audiobook</a>'
+            ' &middot; <a href="https://github.com/Atvriders/ham-radio-storybook">Source on GitHub</a></p>',
             1,
         )
     out_html.parent.mkdir(parents=True, exist_ok=True)
