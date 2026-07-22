@@ -1,4 +1,4 @@
-# Mia and the Radio That Bounced Off the Sky
+# Mia and the Sky-Skipping Radio
 
 *A ham radio story book for children — HF, skywave skip, and the bands.*
 

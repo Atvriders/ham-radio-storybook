@@ -52,7 +52,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mia and the Radio That Bounced Off the Sky</title>
+<title>Mia and the Sky-Skipping Radio</title>
 <style>
   :root {{ color-scheme: light; }}
   body {{
