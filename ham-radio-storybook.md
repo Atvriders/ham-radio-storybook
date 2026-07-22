@@ -1,0 +1,216 @@
+# Mia and the Radio That Bounced Off the Sky
+
+*A ham radio adventure for young readers*
+
+---
+
+## Chapter 1: The Room with the Glowing Dials
+
+The rain was tapping on the windows of Grandpa Joe's house, and Mia was bored. She had finished her puzzle. She had read her comic book twice. She had even watched Grandma bake bread, and that takes a very long time.
+
+"Grandpa," Mia said, "what's in the little room at the end of the hall? The one that's always closed?"
+
+Grandpa Joe's eyes twinkled. "That," he said, "is my radio shack. Want to see?"
+
+The room was the most wonderful mess Mia had ever seen. There was a desk covered with boxes that had glowing green and orange dials. There were knobs and buttons and a microphone that looked like an ice cream cone. Headphones hung from a hook. On the wall was a big map of the world with colored pins stuck all over it.
+
+"Why is there a pin in Australia?" Mia asked.
+
+"Because I talked to someone there," Grandpa said.
+
+"On the telephone?"
+
+"Nope." Grandpa pointed out the window. Through the rain, Mia could see a long wire strung between two tall trees, like a clothesline with nothing on it. "With that."
+
+"That's just a wire!"
+
+"That's an antenna," said Grandpa. "And right now, it's listening to the whole world."
+
+He sat down, put on the headphones, listened for a moment, and then grinned. He took them off and held them to Mia's ear.
+
+Through the crackle and the hiss, Mia heard a faint voice, thin as a thread, coming from very, very far away:
+
+"CQ, CQ, CQ... this is Victor Kilo Three... calling CQ and standing by..."
+
+"Who is that?" Mia whispered.
+
+"That," said Grandpa Joe, "is a man in Australia. It's tomorrow morning where he is. And his voice got here with no wires, no internet, and no phone. It bounced off the sky."
+
+Mia looked at the ceiling. "The *sky*?"
+
+"Pull up a chair," said Grandpa. "This is going to take some explaining."
+
+---
+
+## Chapter 2: High Frequency, High Adventure
+
+"You know how a pond ripples when you drop in a pebble?" Grandpa asked.
+
+Mia nodded.
+
+"Radio waves are ripples too — invisible ripples that travel through the air. Some ripple slowly, some ripple very fast. We count the ripples in *megahertz*, which means millions of ripples every second."
+
+"Millions!" said Mia.
+
+"Millions. Now, the radios in cars and kitchens use fast, zippy ripples. They're great for talking across town. But my radios use something called *HF* — that stands for **High Frequency**. HF waves ripple between 3 and 30 million times a second. People also call it *shortwave*."
+
+"Shortwave?" Mia giggled. "You said *high* frequency and *short* wave. Which is it?"
+
+"Both! The faster the ripples, the shorter the distance between them — like taking quick little steps instead of big slow ones. We even name our radio bands by how long the waves are. There's a 40-meter band and a 20-meter band."
+
+"And the special thing about HF," Grandpa continued, tapping the map, "is that these waves can travel farther than any others. They can cross oceans. They can go all the way around the world. That's why people like me love them."
+
+"Who are 'people like you'?" asked Mia.
+
+"We're called *hams*. Ham radio operators. There are about three million of us around the world. We each get a special license from the government — I had to pass a test! — and every ham gets a *call sign*, which is like a superhero name made of letters and numbers. Mine is on that plaque over the door."
+
+Mia read it slowly. It sounded like a secret code. She liked it very much.
+
+---
+
+## Chapter 3: Skipping Stones Across the Sky
+
+"Okay," said Mia. "Tell me the part about bouncing off the sky."
+
+Grandpa leaned back in his squeaky chair. "High above the clouds — higher than airplanes fly — there's a part of the air called the **ionosphere**. Every day, the sun shines on it and charges it up with energy, like plugging it into a wall socket."
+
+"And the charged-up ionosphere does something amazing: when HF radio waves go up, up, up and hit it... they bounce back down to Earth!"
+
+"Like a ball off the ceiling?" said Mia.
+
+"Exactly like that. But I like to think of it as *skipping stones*. Have you ever skipped a flat stone across a pond? Plip... plip... plip?"
+
+Mia had. She was pretty good at it.
+
+"A radio wave can do the same thing. Up to the ionosphere, bounce down to the ocean, back up to the ionosphere, bounce down again — plip, plip, plip — all the way across the world! Each bounce is called a **skip**, and hams say the signal is traveling by *skywave*."
+
+"And here's the funny part," Grandpa said. "Because the signal *jumps*, it hops right over places that are close by. The spot between where the signal leaves and where it lands is called the *skip zone*. Sometimes I can talk to Australia but not to my friend Sam, and Sam only lives two towns over!"
+
+Mia laughed. "That's silly!"
+
+"That's radio! And here's another secret: the ionosphere *changes*. When the sun goes down at night, the high-up layers settle down and radio waves can skip differently. That's why some bands work best in the daytime and some wake up at night. The sky is always moving, and we hams surf it."
+
+"You surf the sky," Mia said, very seriously.
+
+"We surf the sky," Grandpa agreed.
+
+---
+
+## Chapter 4: The Band Parade
+
+"So how do you know *where* to talk?" Mia asked. "The radio has so many numbers."
+
+"Ah," said Grandpa. "That's the bands. HF is divided into bands — like lanes on a highway, or roads on a map. Every ham band has its own personality. Let me introduce you to the family."
+
+He counted them off on his fingers.
+
+"**160 meters** is the sleepy old night owl. It's called the 'top band.' It's quiet, it crackles with static, and it only really wakes up on dark winter nights. Patient hams love it."
+
+"**80 meters** is the storyteller. At night it carries friendly chats across your own country and the countries next door. On winter evenings it hums like a kitchen full of people talking."
+
+"**40 meters** is the early riser *and* the night owl's cousin. In the daytime it reaches a few hundred miles. When evening comes, it stretches its arms — farther and farther — until by midnight it can reach across the ocean."
+
+"**20 meters** is the world traveler. This is the king of the daytime bands. Almost any day of the year, somewhere on 20 meters, someone is talking to someone on the other side of the planet. If the bands were a family, 20 meters would be the one with postcards from everywhere."
+
+"**17 and 12 meters** are the quiet side streets — smaller bands, calmer, polite. Good for slow chats."
+
+"**15 meters** is the sunshine band. When the sun is feeling active and frisky, 15 meters flings its doors open and the whole world pours in."
+
+"And **10 meters**," Grandpa said, lowering his voice like he was telling a ghost story, "is the magic band. For years it can be as quiet as a library. You turn the knob and hear... nothing. Then the sun gets stormy and excited, the ionosphere charges up just right, and suddenly — BOOM! — a little radio with a little antenna is talking to every continent on Earth. When 10 meters opens, it's a party."
+
+"Wow," said Mia. "Do the bands ever bump into each other?"
+
+"Not if everybody shares nicely. We have gentleman's agreements — *band plans* — about who chats where, so the morse code folks, the voice folks, and the computer-beep folks all get a turn. Ham radio runs on being polite."
+
+"Except during contests," Grandma called from the kitchen. "Then it's a zoo!"
+
+Grandpa pretended not to hear her.
+
+---
+
+## Chapter 5: Hello, Down Under!
+
+After dinner, the rain stopped. Grandpa checked his watch, and his whole face lit up.
+
+"Evening here means morning in Australia," he said. "Want to try to say hello?"
+
+They hurried to the shack. Grandpa switched the big radio to the 20-meter band and slowly turned the tuning knob. Voices slid by — one speaking Spanish, one speaking Japanese, one just beeping in morse code, *dit-dah-dit*, which Grandpa said was a ham in Brazil.
+
+And then, clear as a bell: "*CQ, CQ, this is Victor Kilo Three Alpha Lima Mike, calling CQ and standing by.*"
+
+"That's him! That's the voice from before!" Mia squeaked.
+
+Grandpa picked up the microphone. "VK3ALM, this is—" and he said his own call sign, nice and slow.
+
+The radio crackled. And then, from twelve time zones away, a cheerful voice said, "Well, g'day, mate! My name is Bruce, and it's a fine Tuesday morning here in Melbourne!"
+
+"It's Monday night here!" Mia shouted at the microphone.
+
+Grandpa laughed and held it in front of her. "Go on. Say hello."
+
+Mia took a deep breath. "Hello, Bruce! My name is Mia, and I'm nine, and your voice *skipped across the whole ocean like a stone!*"
+
+There was a pause, and then Bruce laughed so hard his signal wobbled. "That it did, young lady! That it did. You are my very first contact from your town, and you made my whole morning."
+
+They talked for ten whole minutes. Bruce had a dog named Wombat. Bruce's grandson was also nine. Grandpa gave Bruce a "signal report" — five and nine, which means loud and clear — and wrote everything down in his big logbook: the date, the time, the band, and the call sign.
+
+"Bruce and I will mail each other postcards now," Grandpa explained. "They're called *QSL cards*. When a ham gets one, it proves the contact really happened. I have shoeboxes full."
+
+When they finally said goodbye — "*seventy-three!*" said Bruce, which is how hams say "best wishes" — Mia sat very still for a moment.
+
+"Grandpa," she said. "My voice bounced off the *sky*. Off the actual sky. And a man on the other side of the world heard it, and it's *tomorrow* there."
+
+"Yep," said Grandpa.
+
+"That is the coolest thing that has ever happened to me."
+
+---
+
+## Chapter 6: The Newest Ham
+
+That night, Mia couldn't sleep. She kept thinking about the ionosphere, quietly glowing above the clouds, and about all those invisible signals skipping around the planet like stones on a pond — plip, plip, plip — while everybody else was asleep.
+
+At breakfast, she made an announcement.
+
+"I want my own call sign. I want to be a ham."
+
+Grandma clapped. Grandpa tried to look calm, but he knocked over the sugar bowl.
+
+"There's a test," he warned her.
+
+"Then I'll study."
+
+"There's math. And rules. And a little bit of science."
+
+"Grandpa," said Mia, "my voice already bounced off the sky. I think I can handle a test."
+
+So they started that very day. Grandpa found his old study book. Grandma made flash cards. And every evening, Mia and Grandpa went to the shack to listen — to the night owl and the storyteller, to the world traveler and the magic band, to morse code singing its little *dit-dah* songs from Brazil.
+
+Months later, an envelope arrived with an official government stamp. Inside was a brand-new call sign with Mia's very own name typed underneath it.
+
+Mia ran to the shack, put on the headphones, and took a deep breath. High above her, the sun was charging up the sky. Somewhere out there, in the morning of tomorrow, somebody was waiting to hear a friendly voice.
+
+She picked up the microphone.
+
+"CQ, CQ, CQ..."
+
+---
+
+## Glossary for Young Hams
+
+- **Ham radio** — a hobby where licensed people talk to each other with radios, just for fun, learning, and helping in emergencies.
+- **HF (High Frequency)** — radio waves between 3 and 30 megahertz (MHz), also called *shortwave*. These waves can travel around the world.
+- **Band** — a range of radio frequencies where hams are allowed to talk, named by the length of the wave: 160, 80, 40, 20, 15, and 10 meters, and more.
+- **Ionosphere** — a layer high above the Earth that the sun charges with energy. It bends and bounces HF radio waves back down to Earth.
+- **Skip (skywave)** — the way an HF signal bounces off the ionosphere and lands far away, like a stone skipping across a pond.
+- **Skip zone** — the area a signal jumps *over*, between where it starts and where it lands. Close-by friends can be harder to reach than faraway ones!
+- **CQ** — what hams say when they want anyone, anywhere, to answer: "I'm calling you!"
+- **Call sign** — a ham's official radio name, made of letters and numbers, given with their license.
+- **DX** — faraway radio contacts. Talking to another continent is "working DX."
+- **Signal report** — numbers hams exchange to say how well they hear each other. "Five nine" (59) means loud and clear.
+- **QSL card** — a postcard hams mail to confirm a radio contact.
+- **73** — ham-speak for "best wishes!" (Never "73s" — you wouldn't say "best wisheses!")
+
+---
+
+*73, and see you on the air!*
