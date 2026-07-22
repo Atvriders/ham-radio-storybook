@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t1">
+<title id="t1">Grandpa's radio shack: a desk with glowing radios, headphones on a hook, a wall map with pins, and a wire antenna out the window</title>
+<rect x="0" y="0" width="800" height="360" fill="#fdfcf7"/>
+<rect x="0" y="290" width="800" height="70" fill="#efe8d2"/>
+<line x1="0" y1="290" x2="800" y2="290" stroke="#d8cfae" stroke-width="3"/>
+<g>
+  <rect x="60" y="40" width="180" height="120" rx="8" fill="#ffffff" stroke="#1a3a6b" stroke-width="4"/>
+  <ellipse cx="110" cy="80" rx="28" ry="18" fill="#9ec49a"/>
+  <ellipse cx="125" cy="122" rx="15" ry="20" fill="#9ec49a"/>
+  <ellipse cx="188" cy="74" rx="26" ry="16" fill="#9ec49a"/>
+  <ellipse cx="198" cy="112" rx="13" ry="11" fill="#9ec49a"/>
+  <line x1="110" y1="82" x2="110" y2="66" stroke="#d95555" stroke-width="3"/><circle cx="110" cy="62" r="6" fill="#d95555"/>
+  <line x1="188" y1="76" x2="188" y2="60" stroke="#e8a54b" stroke-width="3"/><circle cx="188" cy="56" r="6" fill="#e8a54b"/>
+  <line x1="150" y1="108" x2="150" y2="92" stroke="#3f6db5" stroke-width="3"/><circle cx="150" cy="88" r="6" fill="#3f6db5"/>
+</g>
+<g>
+  <circle cx="290" cy="66" r="5" fill="#1a3a6b"/>
+  <path d="M268 106 a26 26 0 0 1 44 0" fill="none" stroke="#1a3a6b" stroke-width="6"/>
+  <rect x="258" y="100" width="16" height="26" rx="6" fill="#3f6db5"/>
+  <rect x="306" y="100" width="16" height="26" rx="6" fill="#3f6db5"/>
+</g>
+<g>
+  <rect x="560" y="30" width="200" height="160" rx="10" fill="#bcd8f0" stroke="#1a3a6b" stroke-width="5"/>
+  <line x1="660" y1="30" x2="660" y2="190" stroke="#1a3a6b" stroke-width="4"/>
+  <line x1="560" y1="110" x2="760" y2="110" stroke="#1a3a6b" stroke-width="4"/>
+  <rect x="700" y="132" width="12" height="40" fill="#8a6b46"/>
+  <circle cx="706" cy="116" r="28" fill="#58b368"/>
+  <circle cx="730" cy="130" r="17" fill="#58b368"/>
+  <line x1="560" y1="72" x2="706" y2="98" stroke="#1a3a6b" stroke-width="2.5"/>
+  <circle cx="560" cy="72" r="4" fill="#1a3a6b"/>
+</g>
+<g>
+  <rect x="300" y="200" width="300" height="18" rx="4" fill="#c8a165"/>
+  <rect x="315" y="218" width="14" height="72" fill="#a8814f"/>
+  <rect x="570" y="218" width="14" height="72" fill="#a8814f"/>
+</g>
+<g>
+  <rect x="330" y="120" width="170" height="80" rx="10" fill="#1a3a6b"/>
+  <circle cx="365" cy="152" r="16" fill="#0f2a52" stroke="#7dd87d" stroke-width="3"/>
+  <line x1="365" y1="152" x2="374" y2="141" stroke="#7dd87d" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="410" cy="152" r="16" fill="#0f2a52" stroke="#ffb347" stroke-width="3"/>
+  <line x1="410" y1="152" x2="403" y2="140" stroke="#ffb347" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#7dd87d" stroke-width="2" opacity="0.7">
+    <line x1="440" y1="136" x2="486" y2="136"/>
+    <line x1="440" y1="146" x2="486" y2="146"/>
+    <line x1="440" y1="156" x2="486" y2="156"/>
+    <line x1="440" y1="166" x2="486" y2="166"/>
+  </g>
+  <circle cx="350" cy="188" r="6" fill="#d8cfae"/>
+  <circle cx="372" cy="188" r="6" fill="#d8cfae"/>
+</g>
+<g>
+  <rect x="520" y="158" width="26" height="42" rx="12" fill="#3f6db5"/>
+  <line x1="533" y1="200" x2="533" y2="214" stroke="#1a3a6b" stroke-width="5"/>
+  <line x1="518" y1="214" x2="548" y2="214" stroke="#1a3a6b" stroke-width="5"/>
+</g>
+</svg>

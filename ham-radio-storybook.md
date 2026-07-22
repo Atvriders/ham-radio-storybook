@@ -14,6 +14,8 @@ Grandpa Joe's eyes twinkled. "That," he said, "is my radio shack. Want to see?"
 
 The room was the most wonderful mess Mia had ever seen. There was a desk covered with boxes that had glowing green and orange dials. There were knobs and buttons and a microphone that looked like an ice cream cone. Headphones hung from a hook. On the wall was a big map of the world with colored pins stuck all over it.
 
+{{fig:shack}}
+
 "Why is there a pin in Australia?" Mia asked.
 
 "Because I talked to someone there," Grandpa said.
@@ -58,6 +60,8 @@ Mia nodded.
 
 "Both! The faster the ripples, the shorter the distance between them — like taking quick little steps instead of big slow ones. We even name our radio bands by how long the waves are. There's a 40-meter band and a 20-meter band."
 
+{{fig:waves}}
+
 "And the special thing about HF," Grandpa continued, tapping the map, "is that these waves can travel farther than any others. They can cross oceans. They can go all the way around the world. That's why people like me love them."
 
 "Who are 'people like you'?" asked Mia.
@@ -83,6 +87,8 @@ Grandpa leaned back in his squeaky chair. "High above the clouds — higher than
 Mia had. She was pretty good at it.
 
 "A radio wave can do the same thing. Up to the ionosphere, bounce down to the ocean, back up to the ionosphere, bounce down again — plip, plip, plip — all the way across the world! Each bounce is called a **skip**, and hams say the signal is traveling by *skywave*."
+
+{{fig:skip}}
 
 "And here's the funny part," Grandpa said. "Because the signal *jumps*, it hops right over places that are close by. The spot between where the signal leaves and where it lands is called the *skip zone*. Sometimes I can talk to Australia but not to my friend Sam, and Sam only lives two towns over!"
 
@@ -117,6 +123,8 @@ He counted them off on his fingers.
 "**15 meters** is the sunshine band. When the sun is feeling active and frisky, 15 meters flings its doors open and the whole world pours in."
 
 "And **10 meters**," Grandpa said, lowering his voice like he was telling a ghost story, "is the magic band. For years it can be as quiet as a library. You turn the knob and hear... nothing. Then the sun gets stormy and excited, the ionosphere charges up just right, and suddenly — BOOM! — a little radio with a little antenna is talking to every continent on Earth. When 10 meters opens, it's a party."
+
+{{fig:bands}}
 
 "Wow," said Mia. "Do the bands ever bump into each other?"
 
@@ -156,6 +164,8 @@ They talked for ten whole minutes. Bruce had a dog named Wombat. Bruce's grandso
 
 "Bruce and I will mail each other postcards now," Grandpa explained. "They're called *QSL cards*. When a ham gets one, it proves the contact really happened. I have shoeboxes full."
 
+{{fig:globe}}
+
 When they finally said goodbye — "*seventy-three!*" said Bruce, which is how hams say "best wishes" — Mia sat very still for a moment.
 
 "Grandpa," she said. "My voice bounced off the *sky*. Off the actual sky. And a man on the other side of the world heard it, and it's *tomorrow* there."
@@ -187,6 +197,8 @@ Grandma clapped. Grandpa tried to look calm, but he knocked over the sugar bowl.
 So they started that very day. Grandpa found his old study book. Grandma made flash cards. And every evening, Mia and Grandpa went to the shack to listen — to the night owl and the storyteller, to the world traveler and the magic band, to morse code singing its little *dit-dah* songs from Brazil.
 
 Months later, an envelope arrived with an official government stamp. Inside was a brand-new call sign with Mia's very own name typed underneath it.
+
+{{fig:cq}}
 
 Mia ran to the shack, put on the headphones, and took a deep breath. High above her, the sun was charging up the sky. Somewhere out there, in the morning of tomorrow, somebody was waiting to hear a friendly voice.
 

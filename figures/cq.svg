@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t6">
+<title id="t6">Mia at the radio with headphones on, calling CQ into a starry night, with her brand-new license envelope on the desk</title>
+<rect x="0" y="0" width="800" height="360" fill="#fdfcf7"/>
+<rect x="0" y="290" width="800" height="70" fill="#efe8d2"/>
+<line x1="0" y1="290" x2="800" y2="290" stroke="#d8cfae" stroke-width="3"/>
+<g>
+  <rect x="520" y="30" width="230" height="170" rx="10" fill="#0f2a52" stroke="#1a3a6b" stroke-width="5"/>
+  <g fill="#fdfcf7">
+    <circle cx="560" cy="70" r="2"/><circle cx="620" cy="55" r="1.6"/><circle cx="700" cy="75" r="2"/>
+    <circle cx="590" cy="110" r="1.6"/><circle cx="670" cy="120" r="1.8"/><circle cx="720" cy="150" r="1.6"/>
+    <circle cx="550" cy="150" r="1.6"/>
+  </g>
+  <circle cx="640" cy="100" r="20" fill="#d8cfae"/>
+  <circle cx="648" cy="94" r="16" fill="#0f2a52"/>
+</g>
+<g stroke="#e8734a" stroke-width="4" fill="none" stroke-linecap="round">
+  <path d="M470 240 q40 -50 20 -110" stroke-dasharray="1 12"/>
+  <path d="M495 240 q60 -60 35 -150" stroke-dasharray="1 12" opacity="0.7"/>
+  <path d="M520 240 q80 -70 50 -190" stroke-dasharray="1 12" opacity="0.4"/>
+</g>
+<g>
+  <rect x="180" y="200" width="300" height="18" rx="4" fill="#c8a165"/>
+  <rect x="195" y="218" width="14" height="72" fill="#a8814f"/>
+  <rect x="450" y="218" width="14" height="72" fill="#a8814f"/>
+</g>
+<g>
+  <rect x="370" y="130" width="110" height="70" rx="10" fill="#1a3a6b"/>
+  <circle cx="395" cy="158" r="13" fill="#0f2a52" stroke="#7dd87d" stroke-width="3"/>
+  <line x1="395" y1="158" x2="402" y2="149" stroke="#7dd87d" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="425" cy="158" r="13" fill="#0f2a52" stroke="#ffb347" stroke-width="3"/>
+  <line x1="425" y1="158" x2="419" y2="148" stroke="#ffb347" stroke-width="2.5" stroke-linecap="round"/>
+  <g stroke="#7dd87d" stroke-width="2" opacity="0.7">
+    <line x1="448" y1="146" x2="470" y2="146"/><line x1="448" y1="154" x2="470" y2="154"/>
+    <line x1="448" y1="162" x2="470" y2="162"/><line x1="448" y1="170" x2="470" y2="170"/>
+  </g>
+  <line x1="425" y1="130" x2="425" y2="104" stroke="#1a3a6b" stroke-width="4"/>
+  <circle cx="425" cy="100" r="5" fill="#d95555"/>
+</g>
+<g>
+  <rect x="210" y="150" width="80" height="50" rx="4" fill="#fdfcf7" stroke="#b3a265" stroke-width="3"/>
+  <path d="M210 152 l40 26 l40 -26" fill="none" stroke="#b3a265" stroke-width="3"/>
+  <circle cx="268" cy="164" r="9" fill="#d95555"/>
+  <text x="268" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#fdfcf7">NEW</text>
+</g>
+<g>
+  <rect x="285" y="218" width="34" height="52" rx="8" fill="#d95555"/>
+  <circle cx="302" cy="182" r="24" fill="#f2c9a0"/>
+  <path d="M278 178 a24 24 0 0 1 48 0 l0 -6 a24 20 0 0 0 -48 0 Z" fill="#5a3b22"/>
+  <path d="M272 186 a30 30 0 0 1 60 0" fill="none" stroke="#1a3a6b" stroke-width="5"/>
+  <rect x="264" y="180" width="12" height="20" rx="5" fill="#3f6db5"/>
+  <rect x="328" y="180" width="12" height="20" rx="5" fill="#3f6db5"/>
+  <circle cx="294" cy="184" r="2.5" fill="#1a3a6b"/><circle cx="310" cy="184" r="2.5" fill="#1a3a6b"/>
+  <path d="M296 194 q6 5 12 0" fill="none" stroke="#1a3a6b" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="330" y1="196" x2="352" y2="188" stroke="#1a3a6b" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="356" cy="187" r="5" fill="#3f6db5"/>
+</g>
+<g>
+  <rect x="80" y="70" width="130" height="48" rx="14" fill="#1a3a6b"/>
+  <path d="M110 118 l10 14 l10 -14 Z" fill="#1a3a6b"/>
+  <text x="145" y="99" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#fdfcf7">CQ, CQ, CQ…</text>
+</g>
+</svg>

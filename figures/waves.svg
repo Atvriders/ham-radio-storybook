@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t2">
+<title id="t2">Two ponds: on the left a pebble makes slow, wide ripples; on the right a pebble makes quick, short ripples — that is HF, the shortwave</title>
+<rect x="0" y="0" width="800" height="360" fill="#fdfcf7"/>
+<g>
+  <rect x="40" y="50" width="330" height="250" rx="14" fill="#eaf3fb" stroke="#d8cfae" stroke-width="3"/>
+  <circle cx="205" cy="98" r="10" fill="#8a6b46"/>
+  <line x1="205" y1="48" x2="205" y2="82" stroke="#8a6b46" stroke-width="3" stroke-dasharray="6 6"/>
+  <path d="M95 210 a110 42 0 0 1 220 0" fill="none" stroke="#3f6db5" stroke-width="5"/>
+  <path d="M130 210 a75 28 0 0 1 150 0" fill="none" stroke="#3f6db5" stroke-width="5"/>
+  <path d="M165 210 a40 15 0 0 1 80 0" fill="none" stroke="#3f6db5" stroke-width="5"/>
+  <text x="205" y="266" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#1a3a6b">slow, long waves</text>
+  <text x="205" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#666">(like AM radio)</text>
+</g>
+<g>
+  <rect x="430" y="50" width="330" height="250" rx="14" fill="#eaf3fb" stroke="#d8cfae" stroke-width="3"/>
+  <circle cx="595" cy="98" r="10" fill="#8a6b46"/>
+  <line x1="595" y1="48" x2="595" y2="82" stroke="#8a6b46" stroke-width="3" stroke-dasharray="6 6"/>
+  <path d="M455 210 a140 42 0 0 1 280 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <path d="M475 210 a120 36 0 0 1 240 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <path d="M495 210 a100 30 0 0 1 200 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <path d="M515 210 a80 24 0 0 1 160 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <path d="M535 210 a60 18 0 0 1 120 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <path d="M555 210 a40 12 0 0 1 80 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <path d="M575 210 a20 7 0 0 1 40 0" fill="none" stroke="#3f6db5" stroke-width="4"/>
+  <text x="595" y="266" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#1a3a6b">quick, short waves</text>
+  <text x="595" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#666">(that is HF — shortwave!)</text>
+</g>
+</svg>

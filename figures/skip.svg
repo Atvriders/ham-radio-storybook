@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t3">
+<title id="t3">A radio signal leaves a tower, bounces off the ionosphere, and skips across the world to Australia — like a stone skipping on a pond</title>
+<rect x="0" y="0" width="800" height="360" fill="#0f2a52"/>
+<g fill="#fdfcf7" opacity="0.8">
+  <circle cx="150" cy="45" r="2"/><circle cx="330" cy="30" r="1.6"/><circle cx="520" cy="50" r="2"/>
+  <circle cx="650" cy="35" r="1.6"/><circle cx="730" cy="70" r="2"/><circle cx="420" cy="70" r="1.4"/>
+  <circle cx="250" cy="65" r="1.4"/><circle cx="60" cy="120" r="1.6"/>
+</g>
+<g>
+  <circle cx="68" cy="58" r="24" fill="#ffd25e"/>
+  <g stroke="#ffd25e" stroke-width="4" stroke-linecap="round">
+    <line x1="68" y1="18" x2="68" y2="28"/><line x1="68" y1="88" x2="68" y2="98"/>
+    <line x1="28" y1="58" x2="38" y2="58"/><line x1="98" y1="58" x2="108" y2="58"/>
+    <line x1="40" y1="30" x2="47" y2="37"/><line x1="89" y1="79" x2="96" y2="86"/>
+    <line x1="96" y1="30" x2="89" y2="37"/><line x1="47" y1="79" x2="40" y2="86"/>
+  </g>
+</g>
+<path d="M40 158 Q400 62 760 158" fill="none" stroke="#b3a265" stroke-width="18" opacity="0.55" stroke-dasharray="14 10"/>
+<text x="400" y="88" text-anchor="middle" fill="#d8cfae" font-size="16" font-family="Georgia, serif">ionosphere — charged up by the Sun</text>
+<path d="M0 360 L0 332 Q400 268 800 332 L800 360 Z" fill="#3f6db5"/>
+<ellipse cx="200" cy="338" rx="52" ry="12" fill="#58b368"/>
+<ellipse cx="560" cy="342" rx="60" ry="12" fill="#58b368"/>
+<ellipse cx="740" cy="338" rx="40" ry="10" fill="#58b368"/>
+<g>
+  <line x1="90" y1="330" x2="90" y2="255" stroke="#d8cfae" stroke-width="5"/>
+  <line x1="78" y1="330" x2="90" y2="255" stroke="#b3a265" stroke-width="3"/>
+  <line x1="102" y1="330" x2="90" y2="255" stroke="#b3a265" stroke-width="3"/>
+  <circle cx="90" cy="250" r="6" fill="#d95555"/>
+</g>
+<g>
+  <rect x="690" y="292" width="52" height="36" fill="#c8a165"/>
+  <path d="M684 292 L716 272 L748 292 Z" fill="#d95555"/>
+  <rect x="708" y="306" width="14" height="22" fill="#1a3a6b"/>
+  <text x="716" y="352" text-anchor="middle" fill="#fdfcf7" font-size="14" font-family="Georgia, serif">Australia</text>
+</g>
+<polyline points="90,250 205,122 330,318 470,122 700,286" fill="none" stroke="#e8734a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700 286 l-16 -2 l8 14 Z" fill="#e8734a"/>
+<text x="322" y="345" text-anchor="middle" fill="#d8cfae" font-size="14" font-style="italic" font-family="Georgia, serif">plip!</text>
+<path d="M110 322 Q210 302 315 326" stroke="#ffd25e" stroke-width="2.5" stroke-dasharray="6 6" fill="none"/>
+<text x="212" y="296" text-anchor="middle" fill="#ffd25e" font-size="13" font-family="Georgia, serif">skip zone</text>
+</svg>

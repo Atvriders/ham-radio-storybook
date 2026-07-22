@@ -11,6 +11,10 @@ With no format flags, all three are built. Outputs:
 
 PDF rendering tries a headless Chromium/Chrome binary first, falling back to
 weasyprint, and is skipped (non-fatal) if neither is available.
+
+Chapter markdown format: body text may contain "{{fig:NAME}}" on its own line
+to inline figures/NAME.svg with the caption from FIGS below. The plain-text
+edition renders a one-line caption instead.
 """
 from __future__ import annotations
 
@@ -23,6 +27,17 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = ROOT / "ham-radio-storybook.md"
+FIGDIR = ROOT / "figures"
+
+# figure name -> caption (files live in figures/<name>.svg)
+FIGS = {
+    "shack": "Grandpa's radio shack — glowing dials, headphones, and a wire antenna out the window.",
+    "waves": "Slow, long ripples and quick, short ripples. HF waves are the quick, short ones!",
+    "skip": "The signal skips off the ionosphere — plip, plip, plip — all the way to Australia!",
+    "bands": "The band parade. Every ham band has its own personality.",
+    "globe": "Monday night for Mia, tomorrow morning for Bruce — one skip across the world.",
+    "cq": "CQ, CQ, CQ… the newest ham on the air.",
+}
 
 _CHROME_BINARIES = (
     "google-chrome",
@@ -79,11 +94,26 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   ul {{ padding-left: 1.4em; }}
   li {{ margin-bottom: 0.5em; }}
   strong {{ color: #1a3a6b; }}
+  figure {{ margin: 2em 0; text-align: center; }}
+  figure svg {{
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #d8cfae;
+    border-radius: 12px;
+  }}
+  figcaption {{
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 0.5em;
+  }}
+  .listen {{ text-align: center; font-size: 0.85em; margin-top: -0.4em; }}
   @media print {{
     body {{ background: white; }}
     h2 {{ page-break-before: always; margin-top: 0; }}
     h2:first-of-type {{ page-break-before: avoid; }}
     h1 + p em {{ display: block; }}
+    figure {{ page-break-inside: avoid; }}
   }}
 </style>
 </head>
@@ -93,10 +123,24 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
+_FIG_RE = re.compile(r"\{\{fig:([a-z0-9_-]+)\}\}")
+
+
+def _fig_html(match: re.Match) -> str:
+    name = match.group(1)
+    svg_path = FIGDIR / f"{name}.svg"
+    caption = FIGS.get(name, "")
+    if not svg_path.exists():
+        print(f"warning: figure {svg_path} not found - skipped")
+        return ""
+    svg = svg_path.read_text(encoding="utf-8").strip()
+    return f"<figure>{svg}<figcaption>{caption}</figcaption></figure>"
+
 
 def build_html(md_text: str, out_html: pathlib.Path) -> pathlib.Path:
     import markdown
 
+    md_text = _FIG_RE.sub(_fig_html, md_text)
     body = markdown.markdown(md_text)
     out_html.parent.mkdir(parents=True, exist_ok=True)
     out_html.write_text(HTML_TEMPLATE.format(body=body), encoding="utf-8")
@@ -105,6 +149,7 @@ def build_html(md_text: str, out_html: pathlib.Path) -> pathlib.Path:
 
 
 def build_txt(md_text: str, out_txt: pathlib.Path) -> pathlib.Path:
+    md_text = _FIG_RE.sub(lambda m: f"\n[ Picture: {FIGS.get(m.group(1), m.group(1))} ]\n", md_text)
     lines = []
     for raw in md_text.splitlines():
         line = raw.rstrip()
@@ -142,6 +187,7 @@ def build_pdf(html_path: pathlib.Path, out_pdf: pathlib.Path) -> bool:
             "--no-sandbox",
             "--disable-gpu",
             "--no-pdf-header-footer",
+            "--print-to-pdf-no-header",
             f"--print-to-pdf={out_pdf}",
             f"file://{html_path}",
         ]

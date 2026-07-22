@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t4">
+<title id="t4">The band parade: seven badges for the ham bands — 160 the night owl, 80 the storyteller, 40 the early riser, 20 the world traveler, 17 and 12 the quiet streets, 15 the sunshine band, and 10 the magic band</title>
+<rect x="0" y="0" width="800" height="360" fill="#fdfcf7"/>
+<!-- 160 m: night owl -->
+<g>
+  <rect x="28" y="80" width="96" height="150" rx="14" fill="#1a3a6b"/>
+  <circle cx="76" cy="100" r="3" fill="#d8cfae"/><circle cx="100" cy="92" r="2" fill="#d8cfae"/><circle cx="52" cy="90" r="2" fill="#d8cfae"/>
+  <ellipse cx="76" cy="140" rx="22" ry="24" fill="#d8cfae"/>
+  <circle cx="68" cy="134" r="8" fill="#1a3a6b"/><circle cx="84" cy="134" r="8" fill="#1a3a6b"/>
+  <circle cx="68" cy="134" r="3" fill="#fdfcf7"/><circle cx="84" cy="134" r="3" fill="#fdfcf7"/>
+  <path d="M74 142 l4 6 l4 -6 Z" fill="#e8a54b"/>
+  <text x="76" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#fdfcf7">160 m</text>
+  <text x="76" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">night owl</text>
+</g>
+<!-- 80 m: storyteller -->
+<g>
+  <rect x="136" y="80" width="96" height="150" rx="14" fill="#d8cfae"/>
+  <path d="M156 130 q12 -8 22 0 v26 q-10 -8 -22 0 Z" fill="#fdfcf7" stroke="#1a3a6b" stroke-width="3"/>
+  <path d="M200 130 q-12 -8 -22 0 v26 q10 -8 22 0 Z" fill="#fdfcf7" stroke="#1a3a6b" stroke-width="3"/>
+  <text x="184" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#1a3a6b">80 m</text>
+  <text x="184" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">storyteller</text>
+</g>
+<!-- 40 m: early riser -->
+<g>
+  <rect x="244" y="80" width="96" height="150" rx="14" fill="#1a3a6b"/>
+  <path d="M262 158 a30 30 0 0 1 60 0 Z" fill="#e8a54b"/>
+  <line x1="256" y1="158" x2="328" y2="158" stroke="#d8cfae" stroke-width="4"/>
+  <g stroke="#e8a54b" stroke-width="3" stroke-linecap="round">
+    <line x1="292" y1="114" x2="292" y2="122"/><line x1="268" y1="124" x2="274" y2="130"/><line x1="316" y1="124" x2="310" y2="130"/>
+  </g>
+  <text x="292" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#fdfcf7">40 m</text>
+  <text x="292" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">early riser</text>
+</g>
+<!-- 20 m: world traveler -->
+<g>
+  <rect x="352" y="80" width="96" height="150" rx="14" fill="#d8cfae"/>
+  <circle cx="400" cy="142" r="26" fill="#3f6db5"/>
+  <ellipse cx="400" cy="142" rx="12" ry="26" fill="none" stroke="#fdfcf7" stroke-width="2"/>
+  <line x1="374" y1="142" x2="426" y2="142" stroke="#fdfcf7" stroke-width="2"/>
+  <ellipse cx="392" cy="134" rx="8" ry="6" fill="#58b368"/>
+  <ellipse cx="408" cy="150" rx="7" ry="5" fill="#58b368"/>
+  <path d="M428 108 l14 6 l-12 4 l2 8 l-6 2 l-4 -9 l-8 2 Z" fill="#1a3a6b"/>
+  <text x="400" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#1a3a6b">20 m</text>
+  <text x="400" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">world traveler</text>
+</g>
+<!-- 17 & 12 m: quiet side streets -->
+<g>
+  <rect x="460" y="80" width="96" height="150" rx="14" fill="#1a3a6b"/>
+  <line x1="484" y1="170" x2="500" y2="114" stroke="#d8cfae" stroke-width="4" stroke-dasharray="8 7"/>
+  <line x1="516" y1="170" x2="500" y2="114" stroke="#d8cfae" stroke-width="4" stroke-dasharray="8 7"/>
+  <circle cx="500" cy="112" r="5" fill="#e8a54b"/>
+  <text x="508" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#fdfcf7">17 &amp; 12</text>
+  <text x="508" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">quiet streets</text>
+</g>
+<!-- 15 m: sunshine band -->
+<g>
+  <rect x="568" y="80" width="96" height="150" rx="14" fill="#d8cfae"/>
+  <circle cx="616" cy="142" r="20" fill="#ffd25e"/>
+  <g stroke="#e8a54b" stroke-width="4" stroke-linecap="round">
+    <line x1="616" y1="110" x2="616" y2="118"/><line x1="616" y1="166" x2="616" y2="174"/>
+    <line x1="584" y1="142" x2="592" y2="142"/><line x1="640" y1="142" x2="648" y2="142"/>
+    <line x1="594" y1="120" x2="600" y2="126"/><line x1="632" y1="158" x2="638" y2="164"/>
+    <line x1="638" y1="120" x2="632" y2="126"/><line x1="600" y1="158" x2="594" y2="164"/>
+  </g>
+  <text x="616" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#1a3a6b">15 m</text>
+  <text x="616" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">sunshine band</text>
+</g>
+<!-- 10 m: magic band -->
+<g>
+  <rect x="676" y="80" width="96" height="150" rx="14" fill="#1a3a6b"/>
+  <path d="M724 118 l7 16 l17 2 l-12 12 l3 17 l-15 -8 l-15 8 l3 -17 l-12 -12 l17 -2 Z" fill="#ffd25e"/>
+  <circle cx="694" cy="124" r="2.5" fill="#e8734a"/><circle cx="756" cy="130" r="2.5" fill="#7dd87d"/>
+  <circle cx="700" cy="168" r="2.5" fill="#3f6db5"/><circle cx="752" cy="166" r="2.5" fill="#d95555"/>
+  <text x="724" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#fdfcf7">10 m</text>
+  <text x="724" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#1a3a6b">magic band</text>
+</g>
+<text x="400" y="310" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#666">— every band has its own personality —</text>
+</svg>
