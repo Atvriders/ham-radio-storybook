@@ -19,6 +19,7 @@ jobs:
         run: |
           mkdir -p audiobook
           base="https://github.com/Atvriders/ham-radio-storybook/releases/download/v1.0"
+          curl -sSfL -o audiobook/intro.mp3 "$base/intro.mp3"
           for i in 1 2 3 4 5 6; do
             curl -sSfL -o "audiobook/ch${i}.mp3" "$base/ch${i}.mp3"
           done

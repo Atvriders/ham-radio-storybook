@@ -38,7 +38,7 @@ editions are built from it by CI into `build/` (not stored in git):
 | `build/index.html` | The book as a single self-contained page, with the six illustrations inline. The nicest way to read it. |
 | `build/ham-radio-storybook.pdf` | PDF edition, one chapter per page, illustrations included. |
 | `build/ham-radio-storybook.txt` | Plain-text edition. |
-| Audiobook ([release v1.0](https://github.com/Atvriders/ham-radio-storybook/releases/tag/v1.0)) | One MP3 per chapter (`ch1.mp3` … `ch6.mp3`), narrated with [edge-tts](https://pypi.org/project/edge-tts/) (voice `en-US-AvaNeural`) via [`tools/make_audiobook.py`](tools/make_audiobook.py). Not stored in git. |
+| Audiobook ([release v1.0](https://github.com/Atvriders/ham-radio-storybook/releases/tag/v1.0)) | Spoken intro plus one MP3 per chapter (`intro.mp3`, `ch1.mp3` … `ch6.mp3`), narrated with [edge-tts](https://pypi.org/project/edge-tts/) (voice `en-US-AvaNeural`) via [`tools/make_audiobook.py`](tools/make_audiobook.py) and [`tools/make_intro.py`](tools/make_intro.py). Not stored in git. |
 | [`figures/`](figures/) | The six illustrations as hand-authored SVG, inlined into the HTML/PDF editions at build time. |
 | [`Dockerfile`](Dockerfile) / [`docker-compose.yml`](docker-compose.yml) | Serve the book yourself — see below. |
 
