@@ -1,1 +1,4 @@
 .venv-storybook/
+build/
+__pycache__/
+*.pyc
