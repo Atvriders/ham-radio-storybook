@@ -6,6 +6,25 @@ Mia discovers her grandpa's radio shack and learns how HF shortwave signals
 skip off the ionosphere like stones across a pond — and why each ham band has
 its own personality. Six short chapters plus a glossary for young hams.
 
+## How it was made
+
+Written by **Kimi** (model `kimi-code/k3`) running in Kimi Code CLI on
+**22 July 2026**, in a single interactive session that also produced the
+typeset editions, this GitHub repo, and the Docker/CI pipeline. Sibling
+project: **[200 Meters and Down](https://github.com/Atvriders/200-meters-and-down)**,
+whose build machinery this repo reuses.
+
+| | |
+|---|---|
+| **Sections** | 6 chapters + glossary |
+| **Words** | 2,248 |
+| **Model turns** | 108 (story, tooling, file ops, CI setup) |
+| **Output tokens** | ≈ 81,000 — everything the model wrote |
+| **Total API tokens** | ≈ 5.5 million, summed over all turns (the agent re-reads the growing conversation every turn; nearly all input was served from cache) |
+| **Wall time** | ≈ 25 min for the whole project; the story draft itself was one pass, ≈ 2 min |
+
+Measured at ship from the session's wire-log `usage` records.
+
 ## Formats
 
 The source is [`ham-radio-storybook.md`](ham-radio-storybook.md). The typeset
