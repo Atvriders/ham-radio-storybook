@@ -3,5 +3,5 @@ services:
     image: ghcr.io/atvriders/ham-radio-storybook:latest
     container_name: ham-radio-storybook
     ports:
-      - "8081:80"
+      - "3024:80"
     restart: unless-stopped

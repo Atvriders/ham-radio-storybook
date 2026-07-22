@@ -28,7 +28,7 @@ On any Docker host:
 docker compose pull && docker compose up -d
 ```
 
-Serves the book at [http://localhost:8081](http://localhost:8081).
+Serves the book at [http://localhost:3024](http://localhost:3024).
 
 To build locally instead:
 
