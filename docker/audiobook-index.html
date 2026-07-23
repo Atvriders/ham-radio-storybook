@@ -35,6 +35,10 @@
     margin: 0 0 0.4em;
     color: #1a3a6b;
   }
+  li.track.playing {
+    border-color: #1a3a6b;
+    box-shadow: 0 2px 10px rgba(26, 58, 107, 0.18);
+  }
   audio { width: 100%; }
   a.dl { font-size: 0.85em; color: #1a3a6b; }
   p.back { text-align: center; margin-top: 2em; }
@@ -84,5 +88,25 @@
 </ul>
 
 <p class="back"><a href="/">&larr; back to the book</a> &middot; <a href="https://github.com/Atvriders/ham-radio-storybook">Source on GitHub</a></p>
+<script>
+  // Auto-play the next track when one finishes, and highlight the current one.
+  const audios = [...document.querySelectorAll("li.track audio")];
+  audios.forEach((a, i) => {
+    a.addEventListener("play", () => {
+      audios.forEach((b) => b.closest("li.track").classList.remove("playing"));
+      a.closest("li.track").classList.add("playing");
+    });
+    a.addEventListener("pause", () => {
+      a.closest("li.track").classList.remove("playing");
+    });
+    a.addEventListener("ended", () => {
+      const next = audios[i + 1];
+      if (next) {
+        next.scrollIntoView({ behavior: "smooth", block: "center" });
+        next.play();
+      }
+    });
+  });
+</script>
 </body>
 </html>
